@@ -1,0 +1,17 @@
+THİS İS THE HTML CODE
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="image.css">
+</head>
+<body>
+    <p>Example</p>
+</body>
+</html>
+
+THİS İS THE CSS CODE
+
+body{
+    background-image: url(images/hero_2.jpg.webp);
+}
